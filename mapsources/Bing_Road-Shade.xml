@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+<name>Microsoft- Road - Shade</name>
+<minZoom>0</minZoom>
+<maxZoom>19</maxZoom>
+<tileType>PNG</tileType>
+<tileUpdate>IfNoneMatch</tileUpdate>
+<url>http://r0.ortho.tiles.virtualearth.net/tiles/r{$q}.png?g=45&amp;mkt=en-us&amp;it=A,G,L&amp;shading=hill&amp;n=z&amp;cb=1</url>
+<backgroundColor>#000000</backgroundColor>
+</customMapSource> 
